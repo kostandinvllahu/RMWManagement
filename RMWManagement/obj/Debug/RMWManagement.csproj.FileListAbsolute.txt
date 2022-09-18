@@ -1,0 +1,15 @@
+C:\Users\vllah\source\repos\RMWManagement\RMWManagement\bin\Debug\RMWManagement.exe.config
+C:\Users\vllah\source\repos\RMWManagement\RMWManagement\bin\Debug\RMWManagement.exe
+C:\Users\vllah\source\repos\RMWManagement\RMWManagement\bin\Debug\RMWManagement.pdb
+C:\Users\vllah\source\repos\RMWManagement\RMWManagement\obj\Debug\RMWManagement.csprojAssemblyReference.cache
+C:\Users\vllah\source\repos\RMWManagement\RMWManagement\obj\Debug\RMWManagement.employees.Login.resources
+C:\Users\vllah\source\repos\RMWManagement\RMWManagement\obj\Debug\RMWManagement.Properties.Resources.resources
+C:\Users\vllah\source\repos\RMWManagement\RMWManagement\obj\Debug\RMWManagement.csproj.GenerateResource.cache
+C:\Users\vllah\source\repos\RMWManagement\RMWManagement\obj\Debug\RMWManagement.csproj.CoreCompileInputs.cache
+C:\Users\vllah\source\repos\RMWManagement\RMWManagement\obj\Debug\RMWManagement.exe
+C:\Users\vllah\source\repos\RMWManagement\RMWManagement\obj\Debug\RMWManagement.pdb
+C:\Users\vllah\source\repos\RMWManagement\RMWManagement\obj\Debug\RMWManagement.employees.MainPage.resources
+C:\Users\vllah\source\repos\RMWManagement\RMWManagement\obj\Debug\RMWManagement.employees.Projects.resources
+C:\Users\vllah\source\repos\RMWManagement\RMWManagement\obj\Debug\RMWManagement.employees.WorkReview.resources
+C:\Users\vllah\source\repos\RMWManagement\RMWManagement\obj\Debug\RMWManagement.admin.Settings.resources
+C:\Users\vllah\source\repos\RMWManagement\RMWManagement\obj\Debug\RMWManagement.employees.WorkingHours.resources
